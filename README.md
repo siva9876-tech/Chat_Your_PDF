@@ -225,8 +225,8 @@ python -m streamlit run app.py --server.port 8502
 
 
 ## 👨‍💻 Author
-Name     : SIVA SHANKAR MAMIDISETTI
-Ph.No    : 7330712258
-Email    : sivamamidisetti98765@gmail.com
+Name     : SIVA SHANKAR MAMIDISETTI\
+Ph.No    : 7330712258\
+Email    : sivamamidisetti98765@gmail.com\
 [Linkedin](https://www.linkedin.com/in/siva-shankar-mamidisetti)
 
